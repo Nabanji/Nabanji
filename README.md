@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Prince Kihara!  
+# 👋 Hello, I'm Prince Nabanji!  
 🚀 **Software Engineer** | 💻 **Full-Stack Developer**
 
 ---
