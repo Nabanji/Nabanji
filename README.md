@@ -33,7 +33,7 @@
 ### 🚀 Let's Connect!  
 Feel free to reach out and connect with me!  
 📧 **Email**: pnabanji@gmail.com 
-💼 **LinkedIn**: [Nabanji](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/prince-nabanji-833538282/))  
+💼 **LinkedIn**: [Nabanji](https://www.linkedin.com/in/prince-nabanji-833538282/)  
 
 ---
 
