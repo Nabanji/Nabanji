@@ -30,9 +30,6 @@
 
 ---
 
-### 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Nabanji&style=flat&color=blueviolet)
-
 ---
 
 ### 🚀 Let's Connect!  
