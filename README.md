@@ -20,14 +20,9 @@
 
 ---
 
-### Profile views
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabanji&show_icons=true&theme=tokyonight)
-
-
-
 ### 📊 GitHub Stats  
 
-[![Nabanji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabanji&show_icons=true&theme=tokyonight)](https://github.com/princekihara)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabanji&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nabanji&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400)](https://github.com/princekihara)
 
@@ -35,10 +30,14 @@
 
 ---
 
-### 🚀 Let's Connect!  
-Feel free to reach out and connect with me!  
-📧 **Email**: pnabanji@gmail.com 
-💼 **LinkedIn**: [Nabanji](https://www.linkedin.com/in/prince-nabanji-833538282/)  
+### 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=Nabanji&style=flat&color=blueviolet)
 
 ---
 
+### 🚀 Let's Connect!  
+Feel free to reach out and connect with me!  
+📧 **Email**: pnabanji@gmail.com  
+💼 **LinkedIn**: [Nabanji](https://www.linkedin.com/in/prince-nabanji-833538282/)  
+
+---
