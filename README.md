@@ -22,11 +22,11 @@
 
 ### 📊 GitHub Stats  
 
-[![Nabanji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabanji&show_icons=true&theme=tokyonight)](https://github.com/princekihara)
+[![Nabanji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabanji&show_icons=true&theme=tokyonight)](https://github.com/Nabanji)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nabanji&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/princekihara)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nabanji&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400)](https://github.com/Nabanji)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabanji&layout=compact&theme=tokyonight)](https://github.com/princekihara)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabanji&layout=compact&theme=tokyonight)](https://github.com/Nabanji)
 
 ---
 
