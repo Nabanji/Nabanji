@@ -2,6 +2,8 @@
 🚀 **Software Engineer** | 💻 **Full-Stack Developer**
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Nabanji&color=blue)
+
 
 ### 👨‍💻 About Me  
 - I specialize in **web development** and building scalable, dynamic applications.  
