@@ -8,7 +8,8 @@
 ### 👨‍💻 About Me  
 - I specialize in **web development** and building scalable, dynamic applications.  
 - Passionate about turning ideas into **impactful digital experiences**.  
-- 🌱 Currently enhancing my knowledge in **modern JavaScript frameworks** and backend tools.  
+-  Currently enhancing my knowledge in **modern JavaScript frameworks** and backend tools.
+-  Also learning mobile app development with React Native, Expo CLI
 
 ---
 
